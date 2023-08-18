@@ -1,0 +1,85 @@
+﻿body {
+   
+}
+#top {
+    background: url("Cut out bg.png") , url("Black BG.jpg");
+    background-size:cover;
+    background-position:left;
+    color: #000000;
+    padding: 20px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    width: 100vw;
+    height:auto;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: MS Gothic;
+}
+
+#top h4 {
+    color: white;
+    text-align: center;
+    font-family: MS Gothic;
+}
+
+
+#body {
+    background-color: white;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+#bottom {
+    background-color: #000000;
+    padding-top: 0px;
+}
+
+body {
+    font-family: MS Gothic;
+}
+#Navbar {
+    position: fixed;
+    top: 10px;
+    background-size: contain;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    width:100vw;
+    height:auto;
+}
+#Box1{
+    border: 1px solid black;
+    padding: 10px;
+    width: 10%;
+}
+#Box2 {
+    border: 1px solid black;
+    padding: 10px;
+    width: 10%;
+}
+#Box3 {
+    border: 1px solid black;
+    padding: 10px;
+    width: 10%;
+}
+#Box4 {
+    border: 1px solid black;
+    padding: 10px;
+    width: 10%;
+}
+#Up{
+    position:fixed;
+    bottom:8vw;
+    right: 8vw;
+    display:flex;
+    justify-content: space-between;
+    background-color:black;
+}
+#form{
+
+}
+#I1{
+    
+}
